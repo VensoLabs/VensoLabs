@@ -1,2 +1,4 @@
-# custom-error-page
-Custom error page for VensoLabs while site is being redesigned
+# VensoLabs
+Thank you for visiting us.
+Our website is currently being redesigned and will be up and running shortly.
+
